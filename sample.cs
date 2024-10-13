@@ -9,6 +9,13 @@
  *     }
  * }
  */
+// Time Complexity : O(n)
+// Space Complexity : (1)
+// Did this code successfully run on Leetcode : Yes
+// Any problem you faced while coding this : Yes - had to look at the logic and compilation errors
+
+
+// Your code here along with comments explaining your approach
 
 public class Solution {
     public bool IsPalindrome(ListNode head) {
